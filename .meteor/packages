@@ -26,5 +26,4 @@ kadira:flow-router
 kadira:blaze-layout
 twbs:bootstrap
 service-configuration
-accounts-ui-unstyled
-accounts-ui
+useraccounts:bootstrap
